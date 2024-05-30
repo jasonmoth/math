@@ -18,4 +18,4 @@ for i in three_digit_integers:
 
 
 
-print([element["sum"] for element in rearrangement_sums]) # only first 110 to get the point across
+print(rearrangement_sums)
